@@ -1,13 +1,14 @@
 {
   "window.zoomLevel": 0,
-  "editor.tabSize": 2,
-  "editor.lineHeight": 22,
+  "editor.tabSize": 4,
+  "editor.lineHeight": 20,
   "editor.fontLigatures": true,
   "editor.fontSize": 13,
   "editor.tabCompletion": true,
   "editor.rulers": [
     100
   ],
+  "editor.fontFamily": "Source Code Pro",
   "editor.wordWrapColumn": 100,
   "editor.autoIndent": true,
   "editor.formatOnPaste": true,
@@ -44,5 +45,9 @@
     "themeColours": "Default High Contrast",
     "accentPrevious": "lime"
   },
-  "workbench.startupEditor": "newUntitledFile"
+  "workbench.startupEditor": "newUntitledFile",
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false
 }
