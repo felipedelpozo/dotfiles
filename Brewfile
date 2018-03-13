@@ -13,9 +13,6 @@ brew "nvm"
 brew "wget"
 brew "yarn"
 
-# password manager
-cask "keepassx"
-
 # browsers
 cask "google-chrome"
 
@@ -28,20 +25,14 @@ mas "Keynote", id: 409183694
 mas "Pages", id: 409201541
 mas "Numbers", id: 409203825
 
-# mockup
-cask "sketch"
-cask "sketch-toolbox"
 
 # utilities
-cask "appcleaner"
-cask "caffeine"
-cask "monolingual"
-cask "osxfuse"
-cask "recordit"
-cask "spectacle"
 mas "The Unarchiver", id: 425424353
 
 # others
-mas "Telegram", id: 747648890
-mas "Wunderlist", id: 410628904
+mas "Telegram", id: 946399090
+mas "Wallcat", id: 1000397973
+mas "GravitDesigner", id: 1207744923
+mas "Pixelmator", id: 407963104
+mas "WhatsApp", id: 1147396723
 cask "spotify"
