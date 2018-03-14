@@ -28,6 +28,9 @@ mas "Numbers", id: 409203825
 
 # utilities
 mas "The Unarchiver", id: 425424353
+mas "Monosnap", id: 540348655
+cask "veeer"
+cask "clipy"
 
 # others
 mas "Telegram", id: 946399090
