@@ -50,6 +50,10 @@ e_header "Setting up mac os X"
 source osx/index.sh
 e_success "OSX settings done"
 
+e_header "Setting NPM Global Packages"
+source npm/index.sh
+e_success "NPM setup done"
+
 e_header "Setting VSCODE"
 source vscode/index.sh
 e_success "VSCODE setup done"
