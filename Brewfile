@@ -12,6 +12,7 @@ brew "mas"
 brew "nvm"
 brew "wget"
 brew "yarn"
+brew "python"
 
 # browsers
 cask "google-chrome"
