@@ -1,13 +1,9 @@
 {
   "window.zoomLevel": 0,
-  "editor.tabSize": 4,
   "editor.lineHeight": 20,
   "editor.fontLigatures": true,
   "editor.fontSize": 13,
   "editor.tabCompletion": true,
-  "editor.rulers": [
-    100
-  ],
   "editor.fontFamily": "Source Code Pro",
   "editor.wordWrapColumn": 100,
   "editor.autoIndent": true,
@@ -18,8 +14,6 @@
   "eslint.validate": [
     "javascript"
   ],
-  "workbench.colorTheme": "Material Theme",
-  "workbench.iconTheme": "eq-material-theme-icons",
   "workbench.activityBar.visible": true,
   "workbench.sideBar.location": "left",
   "terminal.integrated.shell.osx": "/bin/zsh",
@@ -38,16 +32,34 @@
     "textLink.foreground": "#C6FF00",
     "progressBar.background": "#C6FF00",
     "pickerGroup.foreground": "#C6FF00",
-    "tab.activeBorder": "#C6FF00"
-  },
-  "materialTheme.cache.workbench.settings": {
-    "accent": "Acid Lime",
-    "themeColours": "Default High Contrast",
-    "accentPrevious": "lime"
+    "tab.activeBorder": "#C6FF00",
+    "terminal.foreground": "#839496",
+    "terminal.background": "#002833"
   },
   "workbench.startupEditor": "newUntitledFile",
   "atomKeymap.promptV3Features": true,
   "editor.multiCursorModifier": "ctrlCmd",
   "explorer.confirmDelete": false,
-  "explorer.confirmDragAndDrop": false
+  "explorer.confirmDragAndDrop": false,
+  "editor.tabSize": 2,
+  "editor.rulers": [
+    100
+  ],
+  "prettier.singleQuote": true,
+  "prettier.eslintIntegration": true,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.meteor": true,
+    "**/.next": true,
+    "**/bower_components": true
+  },
+  "prettier.printWidth": 100,
+  "cSpell.language": "en,es",
+  "editor.formatOnSave": true,
+  "cSpell.userWords": [
+    "bitbucket",
+    "chatbot",
+    "dialogflow",
+    "heyra"
+  ]
 }
